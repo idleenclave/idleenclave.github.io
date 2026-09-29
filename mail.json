@@ -1,0 +1,33 @@
+{
+	"messages": [
+		{
+			"id": "beta-thanks-2026-09",
+			"title": "Thank you for testing!",
+			"body": "Thank you for testing out our next game! Here are 20 Gilded Keys to open some caches. If anything breaks, send us your Account ID (Settings tab) with the report.",
+			"from": "The Enclave",
+			"sent_at": "2026-09-30",
+			"rewards": {
+				"gilded_key": 20
+			},
+			"to": [
+				"ALL"
+			],
+			"channel": "beta"
+		},
+		{
+			"id": "welcome-2026-10",
+			"title": "Welcome to the Enclave!",
+			"body": "Thanks for playing the early build. Farms are now per character and grow on longer, lazier timers; the Bank keeps coins top-left; and the Leave Combat button sends everyone back to the woodpile. Something broken? Quote your Account ID (Settings) when you tell us.",
+			"from": "The Enclave",
+			"sent_at": "2026-10-01",
+			"expires_at": "2026-12-31",
+			"rewards": {
+				"coins": 1000,
+				"gilded_key": 1
+			},
+			"to": [
+				"ALL"
+			]
+		}
+	]
+}
