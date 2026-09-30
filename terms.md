@@ -1,6 +1,6 @@
 # Idle Enclave: Frontier RPG Terms of Use
 
-**Last updated: 28 September 2026**
+**Last updated: 30 September 2026**
 
 By downloading or using Idle Enclave: Frontier RPG ("the app") you agree to these terms. If you do not agree, do not use the app.
 
@@ -8,12 +8,12 @@ By downloading or using Idle Enclave: Frontier RPG ("the app") you agree to thes
 
 We grant you a personal, non-transferable licence to play the app on Apple devices you own or control, subject to the App Store terms. Apple's standard [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies.
 
-## Membership subscription
+## Membership
 
-- Membership is an auto-renewing monthly subscription billed through your Apple ID. The price is shown in the app and on the App Store before you subscribe.
-- New subscribers may receive a free trial of the length shown at the time of purchase. Payment is charged when the trial ends unless the subscription is cancelled at least 24 hours before the trial ends.
-- The subscription renews automatically each month unless cancelled at least 24 hours before the end of the current period. Manage or cancel it in your Apple ID account settings under Subscriptions. Deleting the app does not cancel the subscription.
-- Membership benefits (extra bank slots, longer offline progress, bonus experience and gold, extra daily Gilded Keys, Mastery ranks) apply only while the subscription is active. Every zone, dungeon, raid and party slot in the game is available without membership.
+- Membership is a one-time purchase billed through your Apple ID. It is not a subscription: there is nothing to renew or cancel. The price is shown in the app and on the App Store before you buy.
+- Membership benefits (extra bank slots, longer offline progress, bonus experience and gold, extra daily Gilded Keys, Mastery ranks) stay unlocked for the account that bought them. Use "Restore purchases" in the app's Settings to unlock them again on a new device or after reinstalling.
+- Each account can start one free 3-day trial of the membership benefits. The trial costs nothing and never turns into a paid purchase: when it ends the benefits switch off (everything earned during it is kept) until Membership is bought.
+- Every zone, dungeon, raid and party slot in the game is available without membership.
 
 ## Virtual items
 

@@ -1,6 +1,6 @@
 # Idle Enclave: Frontier RPG Privacy Policy
 
-**Last updated: 28 September 2026**
+**Last updated: 30 September 2026**
 
 Idle Enclave: Frontier RPG ("the app", "we") is a single-player idle game. This policy explains what information the app handles.
 
@@ -10,7 +10,7 @@ The app does not create accounts, does not ask for your name, email address or l
 
 ## Purchases
 
-Membership subscriptions and Gilded Key packs are sold through Apple's App Store. Apple processes the payment and holds the purchase records under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). The app only receives an anonymous confirmation from the App Store that a purchase or subscription is active, so it can unlock the corresponding content. We never see your payment details.
+Membership (a one-time purchase), its free trial and Gilded Key packs are sold through Apple's App Store. Apple processes the payment and holds the purchase records under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). The app only receives an anonymous confirmation from the App Store that a purchase was made, so it can unlock the corresponding content. We never see your payment details.
 
 ## Data stored on your device
 
